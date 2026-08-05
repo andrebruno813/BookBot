@@ -62,7 +62,9 @@ cd bookbot
 Run the program:
 
 ```bash
-python3 main.py
+python3 main.py books/frankenstein.txt
+python3 main.py books/mobydick.txt
+...
 ```
 
 ---
